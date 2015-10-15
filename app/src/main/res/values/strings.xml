@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">N-li8</string>
+    <string name="app_title">e-Notices BITS PILANI</string>
+    <string name="dev_name">N-DAARP</string>
+    <string name="login">Login</string>
+    <string name="register">New Users Register Here!</string>
+    <string name="forget">forget password</string>
+    <string name="forget2">Forget Password</string>
+    <string name="send">Resend Password</string>
+    <string name="reg">Register</string>
+    <string name="hostel">hostel</string>
+    <string name="dob">date of birth</string>
+
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_forget_password">ForgetPassword</string>
+    <string name="title_activity_registration">Registration</string>
+
+
+    <string-array name="hostels">
+        <item>Ashok</item>
+        <item>Bhagirath</item>
+        <item>Budh</item>
+        <item>CV Raman</item>
+        <item>Gandhi</item>
+        <item>Krishna</item>
+        <item>Malviya A</item>
+        <item>Malviya B</item>
+        <item>Malviya C</item>
+        <item>Malviya Ext</item>
+        <item>Meera</item>
+        <item>Ram</item>
+        <item>Rana Pratap</item>
+        <item>Shankar</item>
+        <item>Vishvakarma</item>
+        <item>Vyas</item>
+        <item>Shrinivas</item>
+
+    </string-array>
+</resources>
